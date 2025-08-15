@@ -1,0 +1,27 @@
+
+61. Printing statistics.
+
+=== mux16to1 ===
+
+   Number of wires:                 16
+   Number of wire bits:             34
+   Number of public wires:           3
+   Number of public wire bits:      21
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 14
+     sky130_fd_sc_hd__a2111oi_2      1
+     sky130_fd_sc_hd__a21oi_2        1
+     sky130_fd_sc_hd__a41o_2         1
+     sky130_fd_sc_hd__and3b_2        1
+     sky130_fd_sc_hd__mux2_2         3
+     sky130_fd_sc_hd__mux4_2         2
+     sky130_fd_sc_hd__nand2_2        1
+     sky130_fd_sc_hd__nand3b_2       1
+     sky130_fd_sc_hd__nor2_2         1
+     sky130_fd_sc_hd__nor3b_2        1
+     sky130_fd_sc_hd__or3b_2         1
+
+   Chip area for module '\mux16to1': 168.912000
+

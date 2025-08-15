@@ -1,0 +1,1 @@
+lvs {/openlane/designs/mux16to1/runs/run1/results/signoff/mux16to1.spice mux16to1} {/openlane/designs/mux16to1/runs/run1/tmp/signoff/25-mux16to1.pnl.v mux16to1} /home/rajshekhar/.ciel/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/designs/mux16to1/runs/run1/logs/signoff/28-mux16to1.lef.lvs.log -json

@@ -1,0 +1,20 @@
+
+47. Printing statistics.
+
+=== mux16to1 ===
+
+   Number of wires:                 69
+   Number of wire bits:             87
+   Number of public wires:           3
+   Number of public wire bits:      21
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 67
+     $_ANDNOT_                      18
+     $_AND_                          2
+     $_MUX_                          1
+     $_NAND_                         8
+     $_ORNOT_                        4
+     $_OR_                          34
+
